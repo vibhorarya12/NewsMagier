@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Sports Desk",
+            "title": "'Suryakumar is 32, I'm 22': Pakistan batter's '360' claim, namedrops De Villiers - Hindustan Times",
+            "description": "Young Pakistan batter made a staggering  '360' claim in reference to India’s T20 superstar Suryakumar Yadav | Cricket",
+            "url": "https://www.hindustantimes.com/cricket/suryakumar-yadav-is-32-i-am-22-pakistan-batter-mohammad-haris-astounding-360-claim-namedrops-ab-de-villiers-101689677510939.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/07/18/1600x900/PTI03-19-2023-000076B-0_1679597918321_1679597918321_1689677684391.jpg",
+            "publishedAt": "2023-07-18T11:14:15Z",
+            "content": "Pakistan have a promising young power-packed batter coming through their ranks in the shape of Mohammad Haris, the wicketkeeper who is currently captaining Pakistan A in the ACC Emerging Trophy. Hari… [+2357 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Rocky Aur Rani Kii Vadodara Kahaani : Alia Bhatt Dresses The Part, Mom-In-Law Neetu Kapoor Approves - NDTV",
+            "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+            "url": "https://www.ndtv.com/news",
+            "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+            "publishedAt": "2023-07-18T06:01:10Z",
+            "content": null
+        }
+    ]
+}
